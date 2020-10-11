@@ -1,0 +1,40 @@
+{
+  "LASH LIFT EXTENSIONS" : {
+    "Lash lift with Tint" : "[[\"Service name\",\"Lash lift with Tint\"],[\"Service Type\",\"LASH LIFT EXTENSIONS\"],[\"Service Price\",\"75\"]]"
+  },
+  "NAIL ART:PER NAIL" : {
+    "Colour Fades" : "[[\"Service name\",\"Colour Fades\"],[\"Service Type\",\"NAIL ART:PER NAIL\"],[\"Service Price\",\"25\"]]",
+    "Gilter Fades" : "[[\"Service name\",\"Gilter Fades\"],[\"Service Type\",\"NAIL ART:PER NAIL\"],[\"Service Price\",\"25\"]]",
+    "Intricate Design" : "[[\"Service name\",\"Intricate Design\"],[\"Service Type\",\"NAIL ART:PER NAIL\"],[\"Service Price\",\"20\"]]",
+    "Simple  Dot work" : "[[\"Service name\",\"Simple  Dot work\"],[\"Service Type\",\"NAIL ART:PER NAIL\"],[\"Service Price\",\"15\"]]",
+    "Simple Design" : "[[\"Service name\",\"Simple Design\"],[\"Service Type\",\"NAIL ART:PER NAIL\"],[\"Service Price\",\"30\"]]",
+    "french moons" : "[[\"Service name\",\"french moons\"],[\"Service Type\",\"NAIL ART:PER NAIL\"],[\"Service Price\",\"15\"]]"
+  },
+  "NAILS" : {
+    "Acrylic removal" : "[[\"Service name\",\"Acrylic removal\"],[\"Service Type\",\"NAILS\"],[\"Service Price\",\"30\"]]",
+    "Bio Sculpture Extensions" : "[[\"Service name\",\"Bio Sculpture Extensions\"],[\"Service Type\",\"NAILS\"],[\"Service Price\",\"110\"]]",
+    "Bio Sculpture Manicure" : "[[\"Service name\",\"Bio Sculpture Manicure\"],[\"Service Type\",\"NAILS\"],[\"Service Price\",\"80\"]]",
+    "Gel Nail Repair" : "[[\"Service name\",\"Gel Nail Repair\"],[\"Service Type\",\"NAILS\"],[\"Service Price\",\"15\"]]",
+    "Gel Polish Manicure" : "[[\"Service name\",\"Gel Polish Manicure\"],[\"Service Type\",\"NAILS\"],[\"Service Price\",\"50\"]]",
+    "Gel Polish Pedicure" : "[[\"Service name\",\"Gel Polish Pedicure\"],[\"Service Type\",\"NAILS\"],[\"Service Price\",\"60\"]]",
+    "Gel Polish soak off" : "[[\"Service name\",\"Gel Polish soak off\"],[\"Service Type\",\"NAILS\"],[\"Service Price\",\"15 with manicure\"]]"
+  },
+  "TINTING" : {
+    "Eyebrow wax and tint" : "[[\"Service name\",\"Eyebrow wax and tint\"],[\"Service Type\",\"TINTING\"],[\"Service Price\",\"33\"]]",
+    "Eyebrows" : "[[\"Service name\",\"Eyebrows\"],[\"Service Type\",\"TINTING\"],[\"Service Price\",\"15\"]]",
+    "Eyelashes" : "[[\"Service name\",\"Eyelashes\"],[\"Service Type\",\"TINTING\"],[\"Service Price\",\"22\"]]"
+  },
+  "WAXING" : {
+    "Chin wax" : "[[\"Service name\",\"Chin wax\"],[\"Service Type\",\"WAXING\"],[\"Service Price\",\"15\"]]",
+    "Eyebrow wax" : "[[\"Service name\",\"Eyebrow wax\"],[\"Service Type\",\"WAXING\"],[\"Service Price\",\"22\"]]",
+    "Full Face" : "[[\"Service name\",\"Full Face\"],[\"Service Type\",\"WAXING\"],[\"Service Price\",\"44\"]]",
+    "Full arm wax" : "[[\"Service name\",\"Full arm wax\"],[\"Service Type\",\"WAXING\"],[\"Service Price\",\"39\"]]",
+    "Full leg wax" : "[[\"Service name\",\"Full leg wax\"],[\"Service Type\",\"WAXING\"],[\"Service Price\",\"50\"]]",
+    "Half leg wax" : "[[\"Service name\",\"Half leg wax\"],[\"Service Type\",\"WAXING\"],[\"Service Price\",\"28\"]]",
+    "Lip wax" : "[[\"Service name\",\"Lip wax\"],[\"Service Type\",\"WAXING\"],[\"Service Price\",\"15\"]]",
+    "Underarm" : "[[\"Service name\",\"Underarm\"],[\"Service Type\",\"WAXING\"],[\"Service Price\",\"20\"]]"
+  },
+  "nailandbeautyapp" : {
+    "Eyebrow wax and tint" : "[[\"Name:\",\"Eyebrow wax and tint\"],[\"Price:\",\"33\"],[\"Date:\",\"2020\\/6\\/12\"],[\"Time:\",\"9:4\"]]"
+  }
+}
